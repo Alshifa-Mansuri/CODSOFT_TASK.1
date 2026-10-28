@@ -22,7 +22,7 @@ while ch<5:
             print('product:',c)    
     elif ch==4:
             c=a/b
-            print('quotient:',c)
+            print('Divide:',c)
     elif ch ==5:
           break
     else :

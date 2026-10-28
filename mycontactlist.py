@@ -3,7 +3,6 @@ mycontactlist = {}
 def display_mycontactlist():
     print("Name\t\tcontact number\t\temail\t\taddress\t\t")
     for key in mycontactlist:
-        # '*' ka use karke tuple ko unpack kiya hai taaki saari values alag-alag print ho sakein
         print("{}\t\t{}\t\t{}\t\t{}".format(key, *mycontactlist.get(key)))
 
 def show_menu():
