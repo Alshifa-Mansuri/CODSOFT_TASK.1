@@ -1,4 +1,4 @@
-#python program to make a simple calculator for three number
+# Task-2 python program to make a simple calculator
 print("two number below:")
 a= int(input('enter first number:'))
 b= int(input('enter second number:'))
