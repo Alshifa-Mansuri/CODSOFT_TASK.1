@@ -1,3 +1,5 @@
+# Rock, Paper, Scissors, game using python program
+
 # impoting the requirements
 import random
 
